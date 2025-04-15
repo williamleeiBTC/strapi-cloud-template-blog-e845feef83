@@ -28,7 +28,7 @@
     },
     "category": {
       "type": "enumeration",
-      "enum": ["Layer 1", "Layer 2", "DeFi", "Gaming", "NFT", "DAO", "Other"],
+      "enum": ["Investors", "Chains", "DeFi", "Institutions", "Custody"],
       "required": true
     },
     "slug": {
