@@ -24,7 +24,7 @@
     },
     "apyEstimate": {
       "type": "string",
-      "required": true
+      "required": false
     },
     "points": {
       "type": "text"
@@ -32,7 +32,7 @@
     "prospectusLink": {
       "type": "string",
       "regex": "^(http|https)://",
-      "required": true
+      "required": false
     },
     "slug": {
       "type": "uid",
